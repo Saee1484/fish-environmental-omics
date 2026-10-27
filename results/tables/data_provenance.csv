@@ -1,0 +1,3 @@
+"GEO_accession","organism","exposure","tissue","source_file","genes","control_samples","BaP_samples","expression_format"
+"GSE116687","Oreochromis niloticus","Benzo(a)pyrene (BaP)","Testis","GSE116687_MTG.txt.gz",16930,3,3,"Not yet verified"
+"GSE116687","Oreochromis niloticus","Benzo(a)pyrene (BaP)","Liver","GSE116687_MTL.txt.gz",12902,4,4,"Not yet verified"
