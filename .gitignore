@@ -16,4 +16,5 @@ write_test.txt
 
 # Editor and generated temporary files
 *.bak
-*.swp
+*.swp.RDataTmp
+/.RDataTmp
